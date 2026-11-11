@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "add": "^2.0.9",
+    "newman": "^6.2.3",
     "newman-reporter-html": "^1.0.5",
     "newman-reporter-htmlextra": "^1.23.1"
   }
